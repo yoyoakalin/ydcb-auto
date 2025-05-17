@@ -24,9 +24,9 @@ git clone https://github.com/你的用户名/ocr-assistant.git
 cd ocr-assistant
 ```
 
-2.安装python
+2. 安装python
 
-3.安装pip:
+3. 安装pip:
 ```
 py -m ensurepip --upgrade
 ```
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 1. 运行程序：
 ```bash
-python gui.py
+py gui.py
 ```
 
 2. 在界面中选择要识别的窗口
