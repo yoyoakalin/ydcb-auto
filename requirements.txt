@@ -1,7 +1,6 @@
-paddlepaddle
-paddleocr==2.7.0
-onnxruntime>=1.7.0
-Pillow>=9.0.0
-numpy>=1.19.0
 PyQt5>=5.15.0
-pywin32>=300 
+paddlepaddle-gpu>=2.4.0
+paddleocr>=2.6.0
+pywin32>=305
+numpy>=1.21.0
+Pillow>=9.0.0 
