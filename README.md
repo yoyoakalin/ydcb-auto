@@ -24,7 +24,14 @@ git clone https://github.com/你的用户名/ocr-assistant.git
 cd ocr-assistant
 ```
 
-2. 安装依赖：
+2.安装python
+
+3.安装pip:
+```
+py -m ensurepip --upgrade
+```
+
+4. 安装依赖：
 ```bash
 pip install -r requirements.txt
 ```
